@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "754649322002",
+    "firebase_url": "https://dycadmin-ef5de-default-rtdb.firebaseio.com",
+    "project_id": "dycadmin-ef5de",
+    "storage_bucket": "dycadmin-ef5de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754649322002:android:6274ce321b1cfb96f93ecb",
+        "android_client_info": {
+          "package_name": "com.example.dyc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVsBoS5gRWt2nrPWkJhKb_reV85vHPC9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754649322002:android:dc56b2a0580c9f90f93ecb",
+        "android_client_info": {
+          "package_name": "com.example.dycadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVsBoS5gRWt2nrPWkJhKb_reV85vHPC9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754649322002:android:96c777cb50395b2af93ecb",
+        "android_client_info": {
+          "package_name": "com.example.recyclerviewdetailed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVsBoS5gRWt2nrPWkJhKb_reV85vHPC9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
